@@ -1,0 +1,15 @@
+{
+  "test" : {
+    "errors": [ {
+      "status" : 403,
+      "message" : "Props Authentication Token not found"
+    } ]
+  },
+
+  "pass": {
+    "hi": [ {
+      "status" : 403,
+      "message" : "Props Authentication Token not found"
+    } ]
+  }
+}
